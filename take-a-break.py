@@ -11,8 +11,6 @@ def StopBreak():
 
 def main():
 	for i in xrange(3):
-		# Start Break
-		# Open URL after one min
 	    time.sleep(1*60) # In Second
 	    OpenWebsite()
 
